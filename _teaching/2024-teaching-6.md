@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Body Memory and Mental Health"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lectures"
+permalink: /teaching/2024-teaching-6
+venue: "Cutting-Edge Cognitive Neuroscience, Guangzhou Medical University"
+date: 2024-05-26
+location: "Virtual"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

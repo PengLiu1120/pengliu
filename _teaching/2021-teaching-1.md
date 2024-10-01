@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "From Research to Clinics in Career Perspectives"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Seminars"
+permalink: /teaching/2021-teaching-1
+venue: "Psychology, Otto-von-Guericke Universität Magdeburg"
+date: 2021-02-15
+location: "Virtual"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
