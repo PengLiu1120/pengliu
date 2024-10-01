@@ -11,7 +11,7 @@ locale                   : "en-DE"
 title                    : "Peng Liu"
 title_separator          : "-"
 name                     : &name "Peng Liu"
-description              : &description "Postdoctoral Researcher at AG Translational Imaging of Cortical Microstructure, Hertie Institute for Clinical Brain Research, University of Tübingen"
+description              : &description "Postdoctoral Researcher at AG Translational Imaging of Cortical Microstructure, Hertie-Institut für klinische Hirnforschung, Eberhard Karls Universität Tübingen"
 url                      : "https://pengliu1120.github.io/pengliu/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PengLiu1120/pengliu.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Peng Liu"
   pronouns         : "she/her"  
-  bio              : "Postdoctoral Researcher @ AG Translational Imaging of Cortical Microstructure"
+  bio              : "Postdoctoral Researcher @ AG Translational Imaging of Cortical Microstructure, Hertie-Institut für klinische Hirnforschung"
   location         : "Tübingen, Deutschland"
-  employer         : "Hertie Institute for Clinical Brain Research, University of Tübingen"
+  employer         : "Universitätklinikum Tübingen"
   uri              : # URL
   email            : "peng.liu@uni-tuebingen.de" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

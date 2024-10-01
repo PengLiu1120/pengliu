@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* **PhD in Neuroscience**, Eberhard Karls University Tuebingen (2024 expected)
+* **PhD in Neuroscience**, Eberhard Karls Universität Tübingen (2024 expected)
 * **MSc (Merit) Neuroimaging for Clinical and Cognitive Neuroscience**, The University of Manchester, 2018
 * **BSc Psychology**, Harbin Normal University, 2017
 
 Work experience
 ======
 * 06.2023 - Present : **Postdoctoral Researcher**, _RG Translational Imaging of Cortical Microstructure_
-  * Hertie Institute for Clinical Brain Research, Eberhard Karls University Tuebingen
+  * Hertie-Institut für klinische Hirnforschung, Eberhard Karls Universität Tübingen
   * **Research focus :** Clinical intervention on somatic symptoms
 
 * 11.2019 – 05.2023: **PhD Candidate**, _RG Cortical Microstructure_
-  * Institute for Cognitive Neurology and Dementia, Otto-von-Guericke University Magdeburg
+  * Institut für Kognitive Neurologie und Demenzforschung, Otto-von-Guericke Universität Magdeburg
   * **Research focus :** Functional mechanisms underlying sensorimotor system of healthy aging in human and mice.
   * **Completed projects :** _Population receptive field architecture across fingers and age-related changes_ and _Age-related layer architecture changes in humans and mice_ (in collaboration with Lab Pakan)
 
