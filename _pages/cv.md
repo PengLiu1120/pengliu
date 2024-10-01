@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD in Neuroscience**, Eberhard Karls University Tuebingen (2024 expected)
+* **MSc (Merit) Neuroimaging for Clinical and Cognitive Neuroscience**, The University of Manchester, 2018
+* **BSc Psychology**, Harbin Normal University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 06.2023 - Present : **Postdoctoral Researcher**, _RG Translational Imaging of Cortical Microstructure_
+  * Hertie Institute for Clinical Brain Research, Eberhard Karls University Tuebingen
+  * **Research focus :** Clinical intervention on somatic symptoms
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 11.2019 – 05.2023: **PhD Candidate**, _RG Cortical Microstructure_
+  * Institute for Cognitive Neurology and Dementia, Otto-von-Guericke University Magdeburg
+  * **Research focus :** Functional mechanisms underlying sensorimotor system of healthy aging in human and mice.
+  * **Completed projects :** _Population receptive field architecture across fingers and age-related changes_ and _Age-related layer architecture changes in humans and mice_ (in collaboration with Lab Pakan)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 05.2019 – 08.2019: **Brain Science Technical Engineer**
+  * Shanghai PsyTech Electronic Technology Co., Ltd, China 
+  * Responsible for pre-sale demonstration and after-sale installation and training for EEG, NIRS, TMS, neuronavigation and other neuroscience equipment.
+  * Providing technical support for the development of EEG, NIRS, TMS, neuronavigation and other neuroscience devices and equipment.
 
 Publications
 ======
@@ -58,7 +48,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.awards reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
