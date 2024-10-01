@@ -1,7 +1,7 @@
 ---
 title: "Brain Sciences 2024 Travel Award"
 collection: awards
-type: "Awards"
+type: "Award"
 permalink: /awards/2024-awards-2
 venue: "MDPI"
 date: 2024-02-20
