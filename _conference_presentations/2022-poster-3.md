@@ -1,11 +1,11 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
-collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
+title: "The fine-grained inhibitory functional architecture of neighboring representations in primary somatosensory cortex of humans and mice"
+collection: conference_presentations
+type: "Posters"
+permalink: /conference_presentations/2022-poster-3
+venue: "Society for Neuroscience (SfN) 2022"
+date: 2022-11-22
+location: "San Diego, US"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+As we interact with the world around us, tactile stimulation can co-activate spatially extensive parts of the somatosensory system, however, it is important that sensory precision is maintained. This may be accomplished through inhibitory receptive field (RF) interactions within the cerebral cortex, with cortical RF suppression commonly used to describe the functional architecture of the primary somatosensory cortex (SI) in both health and disease. In humans, studies have reported response suppression during double-finger stimulation in comparison to the sum of single-finger stimulation, which was interpreted as a marker for inhibition. However, these studies focused on limited fingertip regions, leaving the dynamics of larger spatial extents, such as consecutive phalanges, unaddressed. Moreover, the fine-grained layer-specific architecture of RF inhibition in SI remains unknown. To address these issues, we investigated the inhibitory architecture of human index (D2) and middle finger (D3) representations, to quantify suppressive interactions in SI in fine-grained detail. We collected 7T fMRI data from human participants undergoing tactile stimulation of different phalanges of D2 and D3, as well as 3T structural MRI data. We applied phase-encoded mapping and population receptive field (pRF) modeling, and calculated the signal change for three stimulation conditions: D2+D3, D2 only, and D3 only. Both phase-encoded maps and pRF position maps indicated a posterior-to-anterior organization, oriented orthogonal to the central sulcus, corresponding to the proximal-to-distal surface of each finger. We also found that the signal change of D2+D3 was significantly lower than the sum of D2 and D3. Moreover, averaged pRF size for D2+D3 tended to be smaller than the sum of D2 and D3. To further investigate suppressive interactions in SI at the level of cortical layers and single cells, we then used a mouse model of neighboring whiskers and performed two-photon calcium imaging of cortical layers 2/3 (L2/3) and 5 (L5) barrel cortex during whisker stimulation. We quantified the responses of excitatory neurons to single and paired whisker stimulation and found that nearly half showed lower responses to dual compared to single whisker stimulation, similar to the suppressive effects we observed in humans. We also found differences in suppressive potential between L2/3 and L5. More fine-grained analyses compare the inhibitory architecture between human finger and mouse whisker representations. Together, our results reveal architectural principles of SI inhibition across species, ranging from topographic scales down to the single-cell level.
