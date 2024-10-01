@@ -12,7 +12,7 @@ title                    : "Peng Liu"
 title_separator          : "-"
 name                     : &name "Peng Liu"
 description              : &description "Postdoctoral Researcher at AG Translational Imaging of Cortical Microstructure, Hertie Institute for Clinical Brain Research, University of Tübingen"
-url                      : https://pengliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://pengliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PengLiu1120/pengliu.github.io"
 
