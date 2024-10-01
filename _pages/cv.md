@@ -52,5 +52,5 @@ Teaching
 Awards
 ======
   <ul>{% for post in site.awards reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
