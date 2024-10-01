@@ -220,7 +220,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  conference_presentations:
     output: true
     permalink: /:collection/:path/
 
@@ -272,7 +272,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _conference_presentations
   - scope:
       path: ""
       type: talks
