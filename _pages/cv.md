@@ -40,7 +40,7 @@ Publications
 Conference Presentations
 ======
   <ul>{% for post in site.conference_presentations reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
