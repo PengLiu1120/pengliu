@@ -1,9 +1,11 @@
 ---
-title: "From Research to Clinics in Career Perspectives"
-collection: teaching
-type: "Seminars"
-permalink: /teaching/2021-teaching-1
-venue: "Psychology, Otto-von-Guericke Universität Magdeburg"
-date: 2021-02-15
-location: "Virtual"
+title: "Brain Sciences 2024 Travel Award"
+collection: awards
+type: "Awards"
+permalink: /awards/2024-awards-2
+venue: "MDPI"
+date: 2024-02-20
+location: "Tübingen, Deutschland"
 ---
+
+[More information here](https://www.mdpi.com/journal/brainsci/awards/2420)
