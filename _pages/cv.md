@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Experience
 ======
 * **PhD in Neuroscience**, Eberhard Karls Universität Tübingen (2024 expected)
 * **MSc (Merit) Neuroimaging for Clinical and Cognitive Neuroscience**, The University of Manchester, 2018
 * **BSc Psychology**, Harbin Normal University, 2017
 
-Work experience
+Work Experience
 ======
 * 06.2023 - Present : **Postdoctoral Researcher**, _RG Translational Imaging of Cortical Microstructure_
   * Hertie-Institut für klinische Hirnforschung, Eberhard Karls Universität Tübingen
