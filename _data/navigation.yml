@@ -11,9 +11,12 @@ main:
   - title: "Conference Presentations"
     url: /conference_presentations/
 
+  - title: "Awards"
+    url: /awards/
+
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Portfolio"
     url: /portfolio/
         
