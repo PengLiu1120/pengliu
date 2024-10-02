@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-DE"
+locale                   : "en-GB"
 title                    : "Peng Liu"
 title_separator          : "-"
 name                     : &name "Peng Liu"
