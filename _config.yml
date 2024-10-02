@@ -280,7 +280,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
   # _awards
@@ -288,7 +288,7 @@ defaults:
       path: ""
       type: awards
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
