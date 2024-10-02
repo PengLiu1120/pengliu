@@ -14,4 +14,4 @@ Our study presents four major results that we used to develop a novel layer mode
 
 Taken together, the novel layer model of aging provides key and novel information on SI organization and aging sensory circuits that may explain cortical dysfunction in health and disease, which is of particular importance for developing intervention to preserve sensory functions in aging and neurodegeneration in the future. This work also provides impactful relevance for understanding the neuronal mechanisms that underlie topographic organization and plasticity in general by transferring mechanistic insights from animal to human research. Given the layer-specific profile was different from primary motor cortex, our data also motivate the detailed assessment of layer-specific circuits in different cortical areas.
 
-[Download poster](https://github.com/PengLiu1120/pengliu/blob/1d884a91e427fa96ef00598976e5084380e9bdcf/files/poster1.pdf)
+[Download poster](https://github.com/PengLiu1120/pengliu/blob/c11114031237d84880de129a8f9e2b6b436fa9a2/files/poster1.pdf)
