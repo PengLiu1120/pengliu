@@ -1,6 +1,6 @@
 ---
 title: "A layer-specific model of cortical sensory aging"
-excerpt: "30th Annual Meeting of the Organization for Human Brain Mapping (OHBM) poster>"
+excerpt: "30th Annual Meeting of the Organization for Human Brain Mapping (OHBM) poster"
 collection: portfolio
 ---
 
