@@ -6,7 +6,7 @@ permalink: /publication/2024-07-15-paper-title-number-4
 excerpt: ''
 date: 2024-07-15
 venue: 'BioRxiv'
-paperurl: 'http://academicpages.github.io/files/paper4.pdf'
+paperurl: 'https://github.com/PengLiu1120/pengliu/blob/1d884a91e427fa96ef00598976e5084380e9bdcf/files/paper4.pdf'
 citation: 'Liu, P., Doehler, J., Henschke, J.U., Northall, A., Serian, A., Loaiza-Carvajal, L.C., Budinger, E., Schwarzkopf, D. S., Speck, O., Pakan, J. M.P., and Kuehn, E. (2023). Cortical sensory aging is layer-specific. (p. 2023.12.01.567841). bioRxiv.'
 ---
 
