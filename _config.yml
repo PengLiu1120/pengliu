@@ -278,9 +278,9 @@ defaults:
   # _conference_presentations
   - scope:
       path: ""
-      type: talks
+      type: conference_presentations
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: false
   # _awards
