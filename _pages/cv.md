@@ -11,7 +11,7 @@ redirect_from:
 
 Education Experience
 ======
-* **PhD (Summa cum laude) Neuroscience**, Eberhard Karls Universität Tübingen 11.2024
+* **PhD (Summa cum laude) Neuroscience**, Eberhard Karls Universität Tübingen, 11.2024
 * **MSc (Merit) Neuroimaging for Clinical and Cognitive Neuroscience**, The University of Manchester, 10.2018
 * **BSc Psychology**, Harbin Normal University, 06.2017
 
