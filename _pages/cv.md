@@ -11,8 +11,8 @@ redirect_from:
 
 Education Experience
 ======
-* **PhD (Summa cum laude) Neuroscience**, Eberhard Karls Universität Tübingen, 11.2024
-* **MSc (Merit) Neuroimaging for Clinical and Cognitive Neuroscience**, The University of Manchester, 10.2018
+* **PhD (_Summa cum laude_) Neuroscience**, Eberhard Karls Universität Tübingen, 11.2024
+* **MSc (_Merit_) Neuroimaging for Clinical and Cognitive Neuroscience**, The University of Manchester, 10.2018
 * **BSc Psychology**, Harbin Normal University, 06.2017
 
 Work Experience
@@ -20,11 +20,13 @@ Work Experience
 * 06.2023 - Present : **Postdoctoral Researcher**, _RG Translational Imaging of Cortical Microstructure_
   * Hertie-Institut für klinische Hirnforschung, Eberhard Karls Universität Tübingen
   * **Research focus :** Clinical intervention on somatic symptoms
+  * **Current projects :** Body memory and Mental health
 
 * 11.2019 – 05.2023: **PhD Candidate**, _RG Cortical Microstructure_
   * Institut für Kognitive Neurologie und Demenzforschung, Otto-von-Guericke Universität Magdeburg
   * **Research focus :** Functional mechanisms underlying sensorimotor system of healthy aging in human and mice.
   * **Completed projects :** _Population receptive field architecture across fingers and age-related changes_ and _Age-related layer architecture changes in humans and mice_ (in collaboration with Lab Pakan)
+  * **PhD thesis :** Age-related changes in the architecture of human primary somatosensory cortex
 
 * 05.2019 – 08.2019: **Brain Science Technical Engineer**
   * Shanghai PsyTech Electronic Technology Co., Ltd, China 
