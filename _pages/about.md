@@ -14,6 +14,4 @@ I am a psychologist by training. I hold a B.Sc. in Psychology from Harbin Normal
 
 Currently I work as a postdoctoral researcher at AG Tranlsational Imaging of Cortical Microstructure, Hertie Institute for Clinical Brain Research (HIH), Tübingen, Germany. My research focus is on the memory storage and retrieval process for somatosensory perception, and the plasticity change after intervention on negative memories.
 
-Since November 2024, I have been a member of Youth Committee on Brain-Computer Interfaces and Neuromodulation, Association of Chinese Computer Scientists in Germany (GCI).
-
 <img src="https://github.com/PengLiu1120/pengliu/blob/master/images/pliu.png?raw=true"/>
