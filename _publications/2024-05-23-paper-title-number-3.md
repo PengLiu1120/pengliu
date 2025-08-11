@@ -6,7 +6,7 @@ permalink: /publication/2024-05-23-paper-title-number-3
 excerpt: ''
 date: 2024-05-23
 venue: 'Scientific Reports'
-paperurl: 'https://github.com/PengLiu1120/pengliu/blob/1d884a91e427fa96ef00598976e5084380e9bdcf/files/paper3.pdf'
+paperurl: 'https://www.nature.com/articles/s41598-024-62683-y'
 citation: 'Lange, L. S., Chrysidou, A., Liu, P., and Kuehn, E. (2024). Tactile memory impairments in younger and older adults. Scientific Reports, 14(1), 11766.'
 ---
 

@@ -6,7 +6,7 @@ permalink: /publication/2021-06-08-paper-title-number-1
 excerpt: ''
 date: 2021-06-08
 venue: 'eLife'
-paperurl: 'https://github.com/PengLiu1120/pengliu/blob/1d884a91e427fa96ef00598976e5084380e9bdcf/files/paper1.pdf'
+paperurl: 'https://elifesciences.org/articles/60090'
 citation: 'Liu, P., Chrysidou, A., Doehler, J., Hebart, M. N., Wolbers, T., and Kuehn, E. (2021). The
 organizational principles of de-differentiated topographic maps in somatosensory cortex. Elife,
 10, e60090.'

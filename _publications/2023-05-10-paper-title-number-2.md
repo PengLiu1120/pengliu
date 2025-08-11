@@ -6,7 +6,7 @@ permalink: /publication/2023-05-10-paper-title-number-2
 excerpt: ''
 date: 2023-05-10
 venue: 'Journal of Neuroscience'
-paperurl: 'https://github.com/PengLiu1120/pengliu/blob/1d884a91e427fa96ef00598976e5084380e9bdcf/files/paper2.pdf'
+paperurl: 'https://www.jneurosci.org/content/43/19/3456.long'
 citation: 'Doehler, J., Northall, A., Liu, P., Fracasso, A., Chrysidou, A., Speck, O., Lohmann, G., Wolbers, T., and Kuehn, E. (2023). The 3D Structural Architecture of the Human Hand Area is Non-Topographic. Journal of Neuroscience, 43(19), 3456-3476.'
 ---
 
