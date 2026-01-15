@@ -17,13 +17,14 @@ Education Experience
 
 Work Experience
 ======
-* 06.2023 - Present : **Postdoctoral Researcher**, _RG Translational Imaging of Cortical Microstructure_
+* 11.2024 - Present : **Postdoctoral Researcher**, _RG Translational Imaging of Cortical Microstructure_
   * Hertie-Institut für klinische Hirnforschung, Eberhard Karls Universität Tübingen
   * **Research focus :** Clinical intervention on somatic symptoms
   * **Current projects :** Body memory and Mental health
 
-* 11.2019 – 05.2023: **PhD Candidate**, _RG Cortical Microstructure_
+* 11.2019 – 11.2024: **PhD Candidate**, _RG Cortical Microstructure_
   * Institut für Kognitive Neurologie und Demenzforschung, Otto-von-Guericke Universität Magdeburg
+  * Hertie-Institut für klinische Hirnforschung, Eberhard Karls Universität Tübingen
   * **Research focus :** Functional mechanisms underlying sensorimotor system of healthy aging in human and mice.
   * **Completed projects :** _Population receptive field architecture across fingers and age-related changes_ and _Age-related layer architecture changes in humans and mice_ (in collaboration with Lab Pakan)
   * **PhD thesis :** Age-related changes in the architecture of human primary somatosensory cortex
