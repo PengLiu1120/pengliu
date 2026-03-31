@@ -296,7 +296,14 @@ defaults:
       layout: single
       author_profile: true
       share: false
-
+  # _advertisements
+  - scope:
+      path: ""
+      type: advertisements
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
