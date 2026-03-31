@@ -35,6 +35,18 @@ Employment and Education Experience
   * Harbin Normal University, China
   * **Degree:** B.Sc.
 
+Professional Affiliations and Memberships
+======
+* 03.2025 – Present: **Technology and Commerce Association of Chinese in Germany (TeCAC e.V. )**
+  * Member
+
+* 11.2024 – Present: **Youth Committee on Brain-Computer Interfaces and Neuromodulation**
+  * Association of Chinese Computer Scientists in Germany
+  * Member
+
+* 03.2021 – Present: **The Organization for Human Brain Mapping (OHBM)**
+  * Member
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -46,15 +58,15 @@ Conference Presentations
   <ul>{% for post in site.conference_presentations reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Awards
 ======
   <ul>{% for post in site.awards reversed %}
     {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
