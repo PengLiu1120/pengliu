@@ -2,7 +2,7 @@
 title: "Layer-specific changes in sensory cortex across the lifespan in mice and humans"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-15-paper-title-number-4
+permalink: /publication/2025-08-11-paper-title-number-4
 excerpt: ''
 date: 2025-08-11
 venue: 'Nature Neuroscience'
