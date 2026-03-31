@@ -1,9 +1,9 @@
 ---
-title: "Somatosensory ageing and Body memory"
+title: "Somatosensory ageing"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2025-teaching-7
+permalink: /teaching/2024-teaching-4
 venue: "Cutting-Edge Cognitive Neuroscience, Guangzhou Medical University"
-date: 2025-05-18
+date: 2024-05-19
 location: "Virtual"
 ---

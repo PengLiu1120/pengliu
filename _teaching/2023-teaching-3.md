@@ -2,8 +2,8 @@
 title: "Somatosensory ageing and pRF"
 collection: teaching
 type: "Seminar"
-permalink: /teaching/2022-teaching-3
+permalink: /teaching/2023-teaching-3
 venue: "Developmental Psychology, University of Innsbruck"
-date: 2022-06-22
+date: 2023-01-11
 location: "Virtual"
 ---
