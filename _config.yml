@@ -228,6 +228,9 @@ collections:
   awards:
     output: true
     permalink: /:collection/:path/
+  advertisements:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
