@@ -7,7 +7,6 @@ excerpt: ''
 date: 2026-03-20
 venue: 'medRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.64898/2026.03.17.26348630v1'
-#paperurl: 'https://github.com/PengLiu1120/pengliu/blob/1d884a91e427fa96ef00598976e5084380e9bdcf/files/paper4.pdf'
 citation: 'Gülbahçe, B., Mokhtari, N., Stengel, A., Liu, P., Gentsch, A., & Kuehn, E. (2026). Linking reflective functioning to somatic symptoms in daily life: A smartphone-based digital health study (p. 2026.03.17.26348630). medRxiv.'
 ---
 
