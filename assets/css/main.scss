@@ -67,3 +67,18 @@
 .wide {
   max-width: 100% !important;
 }
+
+/* --- Fix Mobile Sidebar Dropdown Transparency --- */
+
+.author__urls-wrapper {
+  background-color: $background-color !important; /* Uses your site's white background */
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  z-index: 20; /* Ensures it stays on top of the 'About me' text */
+}
+
+/* Optional: Ensure the text inside the dropdown is clear */
+.author__urls.social-icons {
+  background-color: $background-color !important;
+}
