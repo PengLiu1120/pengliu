@@ -13,16 +13,19 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  @include breakpoint($large) {
-    @include span(2 of 12);
-    opacity: 1;
-    -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
+@include breakpoint($large) {
+  @include span(2 of 12);
+  position: sticky;
+  top: $masthead-height;
+  align-self: flex-start;
+  opacity: 1;
+  -webkit-transition: opacity 0.2s ease-in-out;
+          transition: opacity 0.2s ease-in-out;
 
-    &:hover {
-      opacity: 1;
-    }
+  &:hover {
+    opacity: 1;
   }
+}
 
   @include breakpoint($x-large) {
     max-width: $sidebar-link-max-width;
