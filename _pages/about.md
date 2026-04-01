@@ -14,6 +14,6 @@ I am a psychologist by training. I hold a B.Sc. in Psychology from Harbin Normal
 
 My PhD research focused on structural and functional changes across cortical depth and layers during human somatosensory aging, employing Ultra-High Field 7 Tesla MRI as the primary approach and comparing the findings with mouse models using Two-Photon Calcium imaging and histological analysis.
 
-Currently I work as a postdoctoral researcher at AG Tranlsational Imaging of Cortical Microstructure (Kuehn Lab), Hertie Institute for Clinical Brain Research (HIH), Tübingen, Germany. My current research focus is on the memory storage & retrieval process on tactile perception, the mechanisms of body memory enhancement & suppression, and the brain plasticity change after intervention on somatic symptoms.
+Currently I work as a postdoctoral researcher at AG Tranlsational Imaging of Cortical Microstructure (Kuehn Lab), Hertie Institute for Clinical Brain Research (HIH), Tübingen, Germany. My current research focus is on the tactile memory storage & retrieval mechanisms, tactile memory enhancement & suppression pathways, and the brain plasticity change after intervention on somatic symptoms.
 
 <img src="https://github.com/PengLiu1120/pengliu/blob/master/images/pliu.png?raw=true"/>
