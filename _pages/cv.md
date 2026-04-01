@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
+classes: wide
 permalink: /cv/
 author_profile: true
 redirect_from:
