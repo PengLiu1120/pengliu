@@ -44,6 +44,14 @@
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
 
+  a {
+    transition: color 0.2s ease, letter-spacing 0.2s ease;
+
+    &:hover {
+      letter-spacing: 0.02em;
+    }
+  }
+
   a + a {
     opacity: 0.5;
   }
