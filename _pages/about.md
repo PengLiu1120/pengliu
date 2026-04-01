@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Peng Liu Neuroscience"
 author_profile: true
