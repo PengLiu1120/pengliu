@@ -246,6 +246,7 @@ defaults:
       comments: true
       share: false
       related: true
+      classes: wide
   # _pages
   - scope:
       path: ""
@@ -253,6 +254,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
   # _teaching
   - scope:
       path: ""
@@ -262,6 +264,7 @@ defaults:
       author_profile: true
       share: false
       comments: true
+      classes: wide
   # _publications
   - scope:
       path: ""
@@ -271,6 +274,7 @@ defaults:
       author_profile: true
       share: false
       comments: true
+      classes: wide
   # _portfolio
   - scope:
       path: ""
@@ -280,6 +284,7 @@ defaults:
       author_profile: true
       share: false
       comment: true
+      classes: wide
   # _conference_presentations
   - scope:
       path: ""
@@ -288,6 +293,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
+      classes: wide
   # _awards
   - scope:
       path: ""
@@ -296,6 +302,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
+      classes: wide
   # _advertisements
   - scope:
       path: ""
@@ -304,6 +311,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
+      classes: wide
 
 # Sass/SCSS
 sass:
