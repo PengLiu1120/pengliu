@@ -68,17 +68,28 @@
   max-width: 100% !important;
 }
 
-/* --- Fix Mobile Sidebar Dropdown Transparency --- */
+/* --- Force Mobile Dropdown Background --- */
 
-.author__urls-wrapper {
-  background-color: $background-color !important; /* Uses your site's white background */
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
-  z-index: 20; /* Ensures it stays on top of the 'About me' text */
+/* This targets the wrapper that opens when you click 'Follow' on mobile */
+.author__urls-wrapper, 
+.author__urls, 
+ul.social-icons.visible,
+.author__urls.social-icons {
+  background-color: #fff !important; /* Force solid white */
+  border: 1px solid #eee !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2) !important;
+  z-index: 9999 !important; /* Force it to stay on top of the 'About me' text */
+  position: relative;
 }
 
-/* Optional: Ensure the text inside the dropdown is clear */
-.author__urls.social-icons {
-  background-color: $background-color !important;
+/* This ensures the individual list items also have a solid background */
+.author__urls-wrapper li {
+  background-color: #fff !important;
+  z-index: 10000 !important;
+}
+
+/* Fix for the little 'arrow' at the top of the dropdown if it exists */
+.author__urls-wrapper::before, 
+.author__urls-wrapper::after {
+  border-bottom-color: #fff !important;
 }
