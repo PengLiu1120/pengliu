@@ -313,3 +313,18 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* Apply animations to page elements */
+.page__title,
+.page__lead,
+.page__content {
+  animation: fadeUp 0.5s ease both;
+}
+
+.archive__item {
+  animation: scaleUp 0.4s ease both;
+}
+
+.sidebar {
+  animation: fadeLeft 0.5s ease both;
+}
