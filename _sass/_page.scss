@@ -37,6 +37,8 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-size: $type-size-3;
+  animation: fadeUp 0.5s ease both; 
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -45,14 +47,17 @@
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-4;
+  font-size: $type-size-5;
+  animation: fadeUp 0.5s ease both;
 }
 
 .page__content {
+  animation: fadeUp 0.6s ease both;
 
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    font-size: $type-size-4;
   }
 
   p, li, dl {
@@ -74,9 +79,11 @@
 
   a {
     text-decoration: underline;
+    transition: opacity 0.2s ease;
 
     &:hover {
       text-decoration: underline;
+      opacity: 0.75;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
