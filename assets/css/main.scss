@@ -39,3 +39,31 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* --- Fix Narrow Archive/Publication Links --- */
+
+/* 1. Force the main container to allow more width on Archive pages */
+.layout--archive #main {
+  max-width: 1300px !important; 
+  width: 100% !important;
+}
+
+/* 2. Target the specific wrapper used by archive-single.html */
+.archive__item, 
+.list__item {
+  width: 100% !important;
+  max-width: 100% !important; /* This breaks the "narrow" constraint */
+}
+
+/* 3. Ensure the inner content of the archive isn't restricted */
+.archive {
+  @include breakpoint($large) {
+    width: calc(100% - 300px) !important; /* Gives the remaining space to the list */
+    padding-right: 0 !important;
+  }
+}
+
+/* 4. Fix the specific 'wide' class if it's being ignored */
+.wide {
+  max-width: 100% !important;
+}
