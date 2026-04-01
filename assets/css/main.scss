@@ -93,3 +93,29 @@ ul.social-icons.visible,
 .author__urls-wrapper::after {
   border-bottom-color: #fff !important;
 }
+
+/* --- Force Mobile Profile Dropdown as an Overlay --- */
+
+@media (max-width: $medium) {
+  .author__urls-wrapper {
+    position: absolute !important; /* This is the key to 'floating' */
+    top: 100%;                     /* Positions it right below the 'Follow' button */
+    right: 0;
+    width: 200px;                  /* Adjust width as needed */
+    background-color: #fff !important;
+    border: 1px solid #ddd !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+    z-index: 1000 !important;      /* Ensures it stays above the 'About me' text */
+    display: none;                 /* Hidden by default */
+  }
+
+  /* When the 'Follow' button is clicked/active */
+  .author__urls-wrapper.visible {
+    display: block !important;
+  }
+  
+  /* Ensure the parent container doesn't clip the dropdown */
+  .sidebar {
+    overflow: visible !important;
+  }
+}
