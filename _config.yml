@@ -10,7 +10,7 @@
 locale                   : "en-GB"
 title                    : "Peng Liu Neuroscience"
 title_separator          : "-"
-name                     : &name "Dr. rer. nat. Peng Liu"
+name                     : &name "Dr. rer. nat. Peng Liu (柳彭)"
 description              : &description "Postdoctoral Researcher at AG Translational Imaging of Cortical Microstructure, Hertie-Institut für klinische Hirnforschung, Eberhard Karls Universität Tübingen"
 url                      : "https://pengliu1120.github.io/pengliu/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
